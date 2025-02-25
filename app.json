@@ -1,0 +1,25 @@
+{
+  "name": "app-with-descriptions",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT",
+      "description": "This is a sample application with different items in it. ",
+      "title": "Regular App"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "externalScripts": [],
+  "externalStylesheets": []
+}
